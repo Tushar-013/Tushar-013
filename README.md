@@ -4,6 +4,7 @@
 <a href="mailto:tushar13@outlook.in" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="30" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" />][twitter]
 <br />
 <hr />
 
@@ -11,6 +12,7 @@
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tushar-kumar-972761191/
 [Facebook]: https://www.facebook.com/profile.php?id=100002767658187
+[Instagram]: https://www.instagram.com/_tushar.13_/
 
 Here are some ideas to get you started:
 - 👨‍💻 Primary coding language ... Python
