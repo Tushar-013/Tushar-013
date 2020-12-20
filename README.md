@@ -4,7 +4,7 @@
 <a href="mailto:tushar13@outlook.in" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" />][twitter]
+[<img height="30" src="https://play-lh.googleusercontent.com/9ASiwrVdio0I2i2Sd1UzRczyL81piJoKfKKBoC8PUm2q6565NMQwUJCuNGwH-enhm00" />][Instagram]
 [<img height="30" src="https://img.shields.io/website?color=E74C3C&label=Portfolio%20Website&style=flat-square&up_message=TUSHAR%20KUMAR&url=https%3A%2F%2Ftusharkumar.live%2F"/>][TUSHAR KUMAR]
 
 <hr />
