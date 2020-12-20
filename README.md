@@ -16,10 +16,9 @@
 [Instagram]: https://www.instagram.com/_tushar.13_/
 [TUSHAR KUMAR]: https://tusharkumar.live/
 
-Here are some ideas to get you started:
+ I'm TUSHAR, a final year CSE undergraduate student at INDERPRASTHA ENGINEERING COLLEGE, GHAZIABAD, INDIA.
 - 👨‍💻 Primary coding language ... Python
 - 🏢 Currently I'm looking for job 
-- 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [TUSHAR KUAMR](https://tusharkumar.live/)
