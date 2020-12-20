@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ I'm TUSHAR, a final year CSE undergraduate student at INDERPRASTHA ENGINEERING COLLEGE, GHAZIABAD, INDIA.
+
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <a href="mailto:tushar13@outlook.in" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -16,7 +18,7 @@
 [Instagram]: https://www.instagram.com/_tushar.13_/
 [TUSHAR KUMAR]: https://tusharkumar.live/
 
- I'm TUSHAR, a final year CSE undergraduate student at INDERPRASTHA ENGINEERING COLLEGE, GHAZIABAD, INDIA.
+
 - 👨‍💻 Primary coding language ... Python
 - 🏢 Currently I'm looking for job 
 - 🌱 I’m currently learning ... Machine Learning
