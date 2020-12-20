@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[twitter]: https://twitter.com/_tushar13
+Twitter ... [twitter]: https://twitter.com/_tushar13
 [Personal Portfolio Website]: https://tusharkumar.live/
 [gmail]: mailto:tushar13@outlook.in
 [linkedin]: https://www.linkedin.com/in/tushar-kumar-972761191/
