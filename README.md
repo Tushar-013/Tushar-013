@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 - 👨‍💻 Primary coding language ... Python
-- 🏢 Currently I'm looking for job which 
+- 🏢 Currently I'm looking for job 
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me about ... Anything
