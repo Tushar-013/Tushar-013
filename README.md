@@ -16,13 +16,13 @@
 [linkedin]: https://www.linkedin.com/in/tushar-kumar-972761191/
 [Facebook]: https://www.facebook.com/profile.php?id=100002767658187
 [Instagram]: https://www.instagram.com/_tushar.13_/
-[TUSHAR KUMAR]: https://tusharkumar.live/
+[TUSHAR KUMAR]: https://www.tusharkumar.tech/
 
 
 - 👨‍💻 Primary coding language ... Python
 - 🏢 Currently I'm looking for the job 
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [TUSHAR KUAMR](https://tusharkumar.live/)
+- 📫 How to reach me: ... [TUSHAR KUAMR](https://www.tusharkumar.tech/)
 - 😄 Pronouns: ... He/Him
 
