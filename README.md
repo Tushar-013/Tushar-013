@@ -15,7 +15,7 @@
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/tushar-kumar-972761191/
 [Facebook]: https://www.facebook.com/profile.php?id=100002767658187
-[Instagram]: https://www.instagram.com/_tushar.kumar13/
+[Instagram]: https://www.instagram.com/tushar.kumar13/
 [TUSHAR KUMAR]: https://www.tusharkumar.tech/
 
 
