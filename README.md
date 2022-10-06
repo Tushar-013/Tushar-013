@@ -20,7 +20,7 @@
 
 
 - 👨‍💻 Primary coding language ... Python
-- 🏢 Currently I'm looking for the job 
+- 🏢 Salesforce Developer at MTX Group
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [TUSHAR KUAMR](https://www.tusharkumar.tech/)
