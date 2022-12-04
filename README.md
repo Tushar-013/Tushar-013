@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/tushar-kumar-972761191/
 [Facebook]: https://www.facebook.com/profile.php?id=100002767658187
 [Instagram]: https://www.instagram.com/tushar.kumar13/
-[TUSHAR KUMAR]: https://www.tusharkumar.tech/
+[TUSHAR KUMAR]: https://tushar-013.github.io/TusharPortfolio/
 
 
 - 👨‍💻 Primary coding language ... Python
