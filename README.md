@@ -23,6 +23,6 @@
 - 🏢 Salesforce Developer at MTX Group
 - 🌱 I’m currently learning ... Machine Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [TUSHAR KUAMR](https://www.tusharkumar.tech/)
+- 📫 How to reach me: ... [TUSHAR KUAMR](https://tushar-013.github.io/TusharPortfolio/index.html)
 - 😄 Pronouns: ... He/Him
 
