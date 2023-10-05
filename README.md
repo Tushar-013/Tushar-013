@@ -25,4 +25,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [TUSHAR KUAMR](https://tushar-013.github.io/TusharPortfolio/index.html)
 - 😄 Pronouns: ... He/Him
+[![An image of @tushar013's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushar013)](https://holopin.io/@tushar013)
 
