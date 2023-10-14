@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm TUSHAR, a final year CSE undergraduate student at INDERPRASTHA ENGINEERING COLLEGE, GHAZIABAD, INDIA.
+ I'm TUSHAR, a Salesforce Developer at MTX GROUP.
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <a href="mailto:tushar13@outlook.in" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
